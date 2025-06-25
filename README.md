@@ -1,6 +1,25 @@
 # Boojoog DevZone
 
-A modern, comprehensive development environment manager for Windows, macOS, and Linux. Boojoog DevZone streamlines your local development workflow by providing an intuitive interface to manage hosts files, nginx configurations, and local development sites all in one place.
+<div align="center">
+  <img src="github-assets/banner.png" alt="Boojoog DevZone Banner" width="100%" />
+</div>
+
+<div align="center">
+  <strong>A modern, comprehensive development environment manager for Windows, macOS, and Linux.</strong>
+  <br>
+  <em>DevZone streamlines your local development workflow by providing an intuitive interface to manage hosts files, nginx configurations, and local development sites all in one place.</em>
+</div>
+
+<br>
+
+<div align="center">
+
+[![GitHub release](https://img.shields.io/github/v/release/psudocode/boojoog-devzone)](https://github.com/psudocode/boojoog-devzone/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/psudocode/boojoog-devzone)](https://github.com/psudocode/boojoog-devzone/issues)
+[![GitHub stars](https://img.shields.io/github/stars/psudocode/boojoog-devzone)](https://github.com/psudocode/boojoog-devzone/stargazers)
+
+</div>
 
 > **Free & Open Source** - Boojoog DevZone is completely free to use and open source under the MIT License. No subscriptions, no limitations, no data collection.
 

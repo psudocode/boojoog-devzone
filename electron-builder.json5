@@ -1,14 +1,17 @@
 // @see - https://www.electron.build/configuration/configuration
 {
-  $schema: "https://raw.githubusercontent.com/electron-userland/electron-builder/master/packages/app-builder-lib/scheme.json",  appId: "com.devzone.app",
+  $schema: "https://raw.githubusercontent.com/electron-userland/electron-builder/master/packages/app-builder-lib/scheme.json",
+  appId: "com.boojoog.devzone",
   asar: true,
-  productName: "DevZone",
+  productName: "Boojoog DevZone",
+  icon: "public/icon.png",
   directories: {
     output: "release/${version}",
   },
   files: ["dist", "dist-electron"],
   mac: {
     target: ["dmg"],
+    icon: "public/icon.png",
     artifactName: "${productName}-Mac-${version}-Installer.${ext}",
   },
   win: {
@@ -18,6 +21,7 @@
         arch: ["x64"],
       },
     ],
+    icon: "public/icon.png",
     artifactName: "${productName}-Windows-${version}-Setup.${ext}",
   },
   nsis: {
@@ -28,6 +32,7 @@
   },
   linux: {
     target: ["AppImage"],
+    icon: "public/icon.png",
     artifactName: "${productName}-Linux-${version}.${ext}",
   },
 }
