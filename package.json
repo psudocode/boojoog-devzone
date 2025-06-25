@@ -1,7 +1,7 @@
 {
   "name": "boojoog-devzone",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A modern, comprehensive development environment manager for managing hosts files, nginx configurations, and local development sites",
   "author": {
     "name": "Ahmad Awdiyanto",

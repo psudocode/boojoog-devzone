@@ -4,6 +4,7 @@
   appId: "com.boojoog.devzone",
   asar: true,
   productName: "Boojoog DevZone",
+  icon: "public/icon.png",
   directories: {
     output: "release/${version}",
   },
