@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/psudocode/boojoog-devzone/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 📚 Documentation
+    url: https://github.com/psudocode/boojoog-devzone/wiki
+    about: Check the wiki for guides and documentation
+  - name: 🚀 Feature Roadmap
+    url: https://github.com/psudocode/boojoog-devzone/projects
+    about: See what features are planned for future releases
